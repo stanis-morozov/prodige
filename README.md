@@ -1,5 +1,6 @@
 # PRODIGE: Probabilistic Differentiable Graph Embeddings
 A supplementary code for Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs.
+https://arxiv.org/pdf/1910.03524.pdf
 
 # What does it do?
 It learns weighted graph representation for your data end-to-end by backpropagation.
